@@ -20,8 +20,8 @@
 	<string name="title_activity_settings">Settings</string>
 	<string name="title_activity_conference_details">Conference Details</string>
 	<string name="title_activity_contact_details">Contact Details</string>
-	<string name="title_activity_sharewith">Share with Conversation</string>
-	<string name="title_activity_start_conversation">Start Conversation</string>
+	<string name="title_activity_sharewith">Share with sciM</string>
+	<string name="title_activity_start_conversation">Start sciM</string>
 	<string name="title_activity_choose_contact">Choose contact</string>
 	<string name="title_activity_block_list">Block list</string>
 	<string name="just_now">just now</string>
@@ -47,7 +47,8 @@
 	<string name="register_account">Register new account on server</string>
 	<string name="change_password_on_server">Change password on server</string>
 	<string name="share_with">Share with…</string>
-	<string name="start_conversation">Start Conversation</string>
+	<string name="start_conversation">Start Conversation
+	</string>
 	<string name="invite_contact">Invite Contact</string>
 	<string name="contacts">Contacts</string>
 	<string name="cancel">Cancel</string>
@@ -59,7 +60,7 @@
 	<string name="unblock">Unblock</string>
 	<string name="save">Save</string>
 	<string name="ok">OK</string>
-	<string name="crash_report_title">Conversations has crashed</string>
+	<string name="crash_report_title">sciM has crashed</string>
 	<string name="crash_report_message">By sending in stack traces you are helping the ongoing development of Conversations\n<b>Warning:</b> This will use your XMPP account to send the stack trace to the developer.</string>
 	<string name="send_now">Send now</string>
 	<string name="send_never">Never ask again</string>
@@ -97,9 +98,9 @@
 	<string name="offering">offering…</string>
 	<string name="waiting">waiting…</string>
 	<string name="no_pgp_key">No OpenPGP Key found</string>
-	<string name="contact_has_no_pgp_key">Conversations is unable to encrypt your messages because your contact is not announcing his or hers public key.\n\n<small>Please ask your contact to setup OpenPGP.</small></string>
+	<string name="contact_has_no_pgp_key">sciM is unable to encrypt your messages because your contact is not announcing his or hers public key.\n\n<small>Please ask your contact to setup OpenPGP.</small></string>
 	<string name="no_pgp_keys">No OpenPGP Keys found</string>
-	<string name="contacts_have_no_pgp_keys">Conversations is unable to encrypt your messages because your contacts are not announcing their public key.\n\n<small>Please ask your contacts to setup OpenPGP.</small></string>
+	<string name="contacts_have_no_pgp_keys">sciM is unable to encrypt your messages because your contacts are not announcing their public key.\n\n<small>Please ask your contacts to setup OpenPGP.</small></string>
 	<string name="pref_general">General</string>
 	<string name="pref_xmpp_resource">XMPP resource</string>
 	<string name="pref_xmpp_resource_summary">The name this client identifies itself with</string>
@@ -302,7 +303,7 @@
 	<string name="title_activity_about">About sciM</string>
 	<string name="pref_about_conversations_summary">Build and licensing information</string>
 	<string name="pref_about_message" translatable="false">
-			sciM is a Instant Messenger app developed by Amdadul Bari,a student of North South University.
+			sciM is an Instant Messenger app developed by Amdadul Bari,a student of North South University.
 	</string>
 	<string name="title_pref_quiet_hours">Quiet Hours</string>
 	<string name="title_pref_quiet_hours_start_time">Start time</string>
